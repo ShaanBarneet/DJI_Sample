@@ -1,0 +1,36 @@
+/* div{
+    border: 2px solid black;
+} */
+.container-fluid{
+    height: auto;
+}
+
+.nav-item{
+    margin: 2px auto;
+}
+
+.nav-link{
+    color:white;
+}
+
+input{
+    border: 0px;
+    border-bottom: 2px solid white;
+    background-color: #4d4d4d;
+    width: 100%;
+}
+
+input[type=submit]{
+    color: black;
+    background-color: white;
+    border: none;
+    padding: 8px;
+    float: right;
+    width: 20%;
+}
+
+.icon{
+    width: 1.5em;
+    height: 1.5em;
+    margin: 0.7em auto;
+}

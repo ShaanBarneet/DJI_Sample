@@ -1,0 +1,23 @@
+#top-panel{
+    height: 4rem;
+    width: 100vw;
+}
+
+#panel-logo{
+    height: 9vw;
+    width: auto;
+    display: block;
+    margin: 0px auto; 
+}
+
+#cart{
+    height: auto;
+    width: 30px;
+    border-radius: 100%;
+    text-align: right;
+}
+
+.nav-item{
+    padding: 5px 20px;
+    margin: 3px;
+}

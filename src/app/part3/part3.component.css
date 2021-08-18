@@ -1,0 +1,31 @@
+/* div,p,h3,h4{
+    margin: 10px 0%;
+    border:2px solid black;
+} */
+.container-fluid{
+    height: auto;
+    padding: 1.2rem;
+    width: 100%;
+    background-color: #006666;
+    color: white;
+}
+
+#btn{
+    display: block;
+    margin: 0px auto;
+    border: 2px solid black;
+    background-color: #e6e6e6;
+    padding: 1em;
+}
+
+#btn:hover{
+    background-color: black;
+    color: #e6e6e6;
+    transform: scaleX(1.2) scaleY(1.2);
+}
+
+.man{
+    border-radius: 100%;
+    width: 7em;
+    height: 7em;
+}
